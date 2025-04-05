@@ -1,4 +1,4 @@
-import styles from './App.modules.css'
+import styles from './App.module.css'
 import '@fontsource/outfit'
 import '@fontsource/roboto'
 
