@@ -1,4 +1,5 @@
 import styles from './NavBar.module.css';
+import { getImageUrl } from '../../utils';
 
 export const NavBar = () => {
   return (
@@ -7,6 +8,7 @@ export const NavBar = () => {
         Portfolio
       </a>
       <div className={styles.menu}>
+      <img className={styles.menuyBtn} src={getImageUrl("nav/menuIcon.png")}></img>
         <ul className={styles.menuItems}>
           <li>
             <a href="#about">About</a>
