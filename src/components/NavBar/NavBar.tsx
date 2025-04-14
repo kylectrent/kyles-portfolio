@@ -3,7 +3,9 @@ import styles from './NavBar.module.css';
 export const NavBar = () => {
   return (
     <nav className={styles.navbar}>
-      <a href="/" className={styles.title}>Portfolio</a>
+      <a href="/" className={styles.title}>
+        Portfolio
+      </a>
       <div className={styles.menu}>
         <ul className={styles.menuItems}>
           <li>
