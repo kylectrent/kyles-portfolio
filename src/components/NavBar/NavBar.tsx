@@ -20,7 +20,7 @@ export const NavBar = () => {
           }
           alt="menu-button"
           onClick={() => setMenuOpen(!menuOpen)}
-        ></img>
+        />
         <ul
           className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
           onClick={() => setMenuOpen(!menuOpen)}
