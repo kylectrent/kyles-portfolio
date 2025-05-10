@@ -5,7 +5,7 @@ import { getImageUrl } from '../../utils'
 
 export const About = () => {
   return (
-    <section className={styles.container}>
+    <section className={styles.container} id="about">
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
@@ -15,7 +15,7 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl('about/cursorIcon.png')} alt="cursor-icon" />
+            <img className={styles.aboutItemImg} src={getImageUrl('about/cursorIcon.png')} alt="cursor-icon" />
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
@@ -25,7 +25,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl('about/serverIcon.png')} alt="server-icon" />
+            <img className={styles.aboutItemImg} src={getImageUrl('about/serverIcon.png')} alt="server-icon" />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
@@ -34,7 +34,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl('about/qualityIcon.png')} alt="quality-icon" />
+            <img className={styles.aboutItemImg} src={getImageUrl('about/qualityIcon.png')} alt="quality-icon" />
             <div className={styles.aboutItemText}>
               <h3>QA Automation</h3>
               <p>
@@ -43,7 +43,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl('about/sharepointIcon.png')} alt="sharepoint-icon" />
+            <img className={styles.aboutItemImg} src={getImageUrl('about/sharepointIcon.png')} alt="sharepoint-icon" />
             <div className={styles.aboutItemText}>
               <h3>SharePoint Dev</h3>
               <p>

@@ -79,6 +79,9 @@
   .content {
     align-items: center;
   }
+  .description {
+    text-align: center;
+  }
 }
 
 .title {
