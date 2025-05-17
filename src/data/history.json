@@ -1,0 +1,39 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "Amazon",
+    "startDate": "Feb, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on Amazon Kuiper",
+      "Developed Field Service Provider Web Portal front end on team of three"
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Expedia",
+    "startDate": "May, 2021",
+    "endDate": "Feb, 2025",
+    "experiences": [
+      "Worked on Expedia + Vrbo Partner Central",
+      "Maintained Expedia Legacy Partner Central home page",
+      "Developed Vrbo Partner Central home page"
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Allyis, Inc.",
+    "startDate": "Oct, 2019",
+    "endDate": "May, 2021",
+    "experiences": [
+      "Worked through Alyis, Inc. on Microsoft short term contracts",
+      "QA engineer for Microsoft's new POS",
+      "Custom Sharepoint web parts and website for a Microsoft Infopedia Portal",
+      " Accessability standards for Microsoft Incentives Enrollment",
+      "Developed Allyis, inc. internal Asp.Net apps for staffing, timekeeping"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

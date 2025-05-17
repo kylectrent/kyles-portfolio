@@ -1,9 +1,10 @@
 import '@fontsource/outfit';
 import '@fontsource/roboto';
 import styles from './App.module.css';
-import { NavBar } from './components/NavBar/NavBar';
 import { About } from './components/about/About';
+import { Experience } from './components/experience/Experience';
 import { Hero } from './components/hero/Hero';
+import { NavBar } from './components/navbar/NavBar';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <NavBar />
       <Hero />
       <About />
+      <Experience />
     </div>
   );
 }
