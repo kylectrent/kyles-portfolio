@@ -8,7 +8,7 @@
       "Worked on Amazon Kuiper",
       "Developed Field Service Provider Web Portal front end on team of three"
     ],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/amazon.svg"
   },
   {
     "role": "Full Stack Developer",
@@ -20,7 +20,7 @@
       "Maintained Expedia Legacy Partner Central home page",
       "Developed Vrbo Partner Central home page"
     ],
-    "imageSrc": "history/microsoft.png"
+    "imageSrc": "history/expedia.svg"
   },
   {
     "role": "Software Developer",
@@ -34,6 +34,6 @@
       " Accessability standards for Microsoft Incentives Enrollment",
       "Developed Allyis, inc. internal Asp.Net apps for staffing, timekeeping"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/allyis.png"
   }
 ]

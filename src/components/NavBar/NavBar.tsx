@@ -37,6 +37,16 @@ export const NavBar = () => {
           <li>
             <a href="#contact">Contact</a>
           </li>
+          <li>
+            <a
+              href="https://1drv.ms/w/c/5dd046f273d700f9/EQQejfl4KmlPvMhLT_-bEBoBdNeTYBk0jolvUNHD4QE2Cw?e=MoKApV"
+              target="_blank"
+              rel="noopener noreferrer"
+              className={styles.resumelink}
+            >
+              Resume
+            </a>
+          </li>
         </ul>
       </div>
     </nav>
